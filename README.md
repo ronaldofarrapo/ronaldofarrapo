@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldofarrapo&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldofarrapo" /> </p>
+
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+
 <!--
 **ronaldofarrapo/ronaldofarrapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
