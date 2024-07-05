@@ -10,5 +10,9 @@
 - 🔭 I’m currently working on improving microservices integrations.
 - 🌱 I’m currently learning microservices architecture and aws cloud.  
 
+## Contact Me
+
+🔗 LinkedIn: [Ronaldo Farrapo](https://www.linkedin.com/in/ronaldo-farrapo-187a97216/)  
+
 ### 💬 Let's Connect!
 Feel free to reach out if you're interested in collaborating on a project, have a job opportunity, or just want to chat about technology.
