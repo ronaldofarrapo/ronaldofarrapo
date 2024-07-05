@@ -1,21 +1,14 @@
-## Hi there 👋
+## Hi there! 👋 I'm Ronaldo Farrapo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldofarrapo&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldofarrapo" /> </p>
 
-## Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+## Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />  
 
-<!--
-**ronaldofarrapo/ronaldofarrapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 Graduated with a Bachelor of Systems Information Technology.
+- 🔭 I’m currently working on improving microservices integrations.
+- 🌱 I’m currently learning microservices architecture and aws cloud.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect!
+Feel free to reach out if you're interested in collaborating on a project, have a job opportunity, or just want to chat about technology.
